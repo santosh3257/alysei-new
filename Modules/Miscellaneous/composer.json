@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/miscellaneous",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Miscellaneous\\Providers\\MiscellaneousServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Miscellaneous\\": ""
+        }
+    }
+}

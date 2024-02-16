@@ -1,0 +1,14 @@
+{
+    "name": "Miscellaneous",
+    "alias": "miscellaneous",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Miscellaneous\\Providers\\MiscellaneousServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

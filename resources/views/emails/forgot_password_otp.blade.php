@@ -1,0 +1,1 @@
+<p>Your reset password OTP is: {{ $user['otp'] }}</a></p>

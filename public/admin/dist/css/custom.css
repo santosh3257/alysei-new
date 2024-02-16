@@ -1,0 +1,18 @@
+.propertyType h6 {
+    max-width: 25%;
+    width: 100%;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+.propertyType {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+.upperTitle {
+    font-size: 18px;
+    font-weight: 600;
+}
+.nav-item.active {
+    background-color: rgba(255,255,255,.1) !important;
+}
